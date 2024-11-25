@@ -1,0 +1,25 @@
+{
+  "destinations": [
+    {
+      "id": "rrpg",
+      "name": "Sahara Desert",
+      "description": "Experience the vastness of the largest hot desert.",
+      "difficulty": "medium",
+      "isFavorite": false
+    },
+    {
+      "id": "4a86",
+      "name": "",
+      "description": "",
+      "difficulty": "",
+      "isFavorite": true
+    },
+    {
+      "id": "3d34",
+      "name": "add",
+      "description": "xdd",
+      "difficulty": "hard",
+      "isFavorite": true
+    }
+  ]
+}
